@@ -1,3 +1,16 @@
 # GitHub Final Project
 
-This repository contains the final project for the IBM Getting Started with Git and GitHub course.
+## Simple Interest Calculator
+
+This repository contains a simple interest calculator implemented as a Bash script.
+
+### Formula
+Simple Interest = (Principal × Rate × Time) / 100
+
+### Usage
+Run the script and enter:
+- Principal amount
+- Rate of interest (%)
+- Time period (years)
+
+The script will calculate and display the simple interest.
